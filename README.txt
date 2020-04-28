@@ -1,2 +1,2 @@
 Hello Git and GitHub
-TESTING
+This is practice using Git and GitHub.
